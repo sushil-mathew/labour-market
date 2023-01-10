@@ -1,0 +1,21 @@
+1. Folder structure
+	a. README in every folder. Go through in your time and change if required. 
+2. Topic
+3. Data:
+	a. Sources
+		(i) How frequently data is collected
+		(ii) Sample size
+		(iii) Who is included in ASHE and PAYE
+	b. SOC and SIC
+		(i) SOC changed from 2010 to 2020 - we need to check if it matters for the 2 digit code.
+		(ii) Has SIC changed?
+	c. Sample: 
+		(i) no self-employed, only wage employed
+		(ii) age groups
+4. Quality of data - occupation data with unreliable estimates, do both datasets aggregate well wrt each other?
+	a. Checked number of employees in PAYE vs number of jobs. Apples to oranges comparison. Detailed notes in Draft 1.
+5. What article might look like - robustness checks (for ex: dropping unreliable statistics vs not)
+6. Where to publish and how? 
+7. Division of tasks? Round coming up so wanna take lighter load?
+8. Will you be using Stata? If so, I'll set up code (cd command) so that you can also use it.
+9. Create some other outlet (other than Whatsapp, or maybe a separate Whatsapp chat/group?) to talk only about work?

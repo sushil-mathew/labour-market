@@ -1,0 +1,27 @@
+DONE1. Download all ASHE (Annual Survey of Households and Earnings) data (2022 might be provisional) from ONS.
+DONE2. Download all PAYE RTI (Pay as you Earn Real Time Information) data from ONS.
+DONE3. List sources and links to methodology.
+DONE4. Write python script to clean up all file names in the folder uniformly.
+DONE5. Find out what time of the year ASHE is collected. PAYE is monthly. So we need to make ASHE and PAYE comparable. My feeling is that ASHE is 
+conducted throughout the year.
+DONE6. Find out what happens when workers are fired in ASHE data. If they need to be employed for >= 12 months to be included, 
+then we should be taking a specific month in PAYE to make ASHE and PAYE comparable.
+DONE7. Find out when someone would drop out of the PAYE dataset. This is important for the report.
+DONE8. Ideally both data sources should aggregate in the same way plus minus the effect of unemployment rate. Within a year employment drops by 2% (at most)
+compared to highest level. See if it does that for 
+	DONE(a) Mean and median gross annual wages
+	DONE(b) Number employed for each age group. 
+	DONE(c) Gross daily wage
+9. For really young people and really old people, summarize shares in age groups. See how much the mean wages shift by, if I drop really young
+and/or really old individuals. 
+10. Do some summary stats and visualisations for call with Mansi. Some key variables are 
+	(a) shares by occupation, industry, age, sex.
+	(b) mean and median hours worked 
+	(c) mean and median wages
+
+
+
+Much later:
+Figure out how to add visualisations on to website using Shiny on R: https://datasciencegenie.com/how-to-embed-a-shiny-app-on-website/
+
+

@@ -1,0 +1,10 @@
+Data can be found here: 
+https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/earningsandworkinghours/datasets/agegroupbyoccupation2digitsocashetable20
+
+Some useful links:
+https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/earningsandworkinghours/methodologies/annualsurveyofhoursandearningslowpayandannualsurveyofhoursandearningspensionresultsqmi
+https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/earningsandworkinghours/methodologies/annualsurveyofhoursandearningsashemethodologyandguidance
+https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/earningsandworkinghours/articles/anoverviewofandcomparisonbetweenannualsurveyofhoursandearningsasheandaverageweeklyearningsawe/2017-09-14#comparison-between-the-ashe-and-awe-series
+https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/earningsandworkinghours/methodologies/guidetointerpretingannualsurveyofhoursandearningsasheestimates#how-does-ashe-compare-with-other-measures-of-hours-and-earnings
+https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/earningsandworkinghours/bulletins/annualsurveyofhoursandearnings/2022#measuring-the-data
+
